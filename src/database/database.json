@@ -1,7 +1,0 @@
-{
-    "host":"db-ufam.ccvc8p3c4h2j.us-east-1.rds.amazonaws.com",
-    "port":3306,
-    "user":"root",
-    "password":"21092001",
-    "database":"ufam"
-}
