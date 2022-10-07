@@ -6,7 +6,7 @@ const swaggerAutogen = require('swagger-autogen')(options);
 
 const doc = {
     info: {
-      version: '0.7.0',
+      version: '0.1.0',
       title: 'API AJUDA AÍ',
       description: 'Essa API tem como objetivo a demonstração do correto funcionamento das rotas, bem como ser um norteado para as equipes de Frontend e Testers.',
     },
